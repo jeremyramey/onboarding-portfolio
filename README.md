@@ -37,9 +37,8 @@ If you are reviewing this as a hiring manager or founder, this repository is bes
 - Examples of simplifying complex systems and workflows  
 - Focus on communication quality as much as content  
 
-This portfolio outlines how I run real onboarding engagements with customers and internal teams.
-
-For a deeper view into how I execute onboarding and implementation work in practice, including real-world examples and case studies, see the repository below:
+This portfolio outlines how I run real onboarding engagements with customers and internal teams.  
+See the repository below for real examples and case studies:
 
 👉 **[Implementation & Integration Case Study Portfolio](https://jeremyramey.github.io/implementation-integration-portfolio/)**
 
