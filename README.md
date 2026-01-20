@@ -38,7 +38,7 @@ If you are reviewing this as a hiring manager or founder, this repository is bes
 - Focus on communication quality as much as content  
 
 This portfolio outlines how I run real onboarding engagements with customers and internal teams.  
-See the repository below for real examples and case studies:
+See the repository below for real-world examples and case studies:
 
 👉 **[Implementation & Integration Case Study Portfolio](https://jeremyramey.github.io/implementation-integration-portfolio/)**
 
