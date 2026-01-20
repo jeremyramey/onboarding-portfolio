@@ -41,6 +41,14 @@ These materials reflect how I run real onboarding engagements with customers and
 
 ---
 
+## Selected Implementation Work
+
+For a deeper view into how I execute onboarding and implementation work in practice, including real-world examples and case studies, see the repository below:
+
+👉 **Implementation Case Study Repository**  
+ https://jeremyramey.github.io/implementation-integration-portfolio/
+---
+
 **Jeremy Ramey**  
 Onboarding & Implementation Specialist  
 Enterprise SaaS · Customer Launch · Systems Enablement  
