@@ -41,7 +41,7 @@ This portfolio outlines how I run onboarding engagements with customers and inte
 
 👉 **[Implementation & Integration Case Study Portfolio](https://jeremyramey.github.io/implementation-integration-portfolio/)**
 
-**Jeremy Ramey**  
+**Scott Ramey**  
 Onboarding & Implementation Specialist  
 Enterprise SaaS · Customer Launch · Systems Enablement  
 
